@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.scss";
 
-function aboutPage() {
+function AboutPage() {
   return (
     <div className="about-container">
 
